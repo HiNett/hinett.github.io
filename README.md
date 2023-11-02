@@ -6,4 +6,4 @@
 You can contact me for business at : **elone.delille@algosup.com**<br>
 You can contact me for questions or others on discord : **@hinett** or by email : **elone.delille@icloud.com**
 <br>
-####DELILLE Elone - V0.00.1
+#### DELILLE Elone - V0.00.1
