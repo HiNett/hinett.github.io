@@ -13,4 +13,7 @@ require_once('../../phpfolder/session.php');
 <body>
     
 </body>
+<footer>
+    Copyright 2023 - DELILLE Elone
+</footer>
 </html>
