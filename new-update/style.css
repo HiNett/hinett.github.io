@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .loading {
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .commit-title {
+    cursor: pointer;
+    color: #007bff;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .commit-title:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .commit-details {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    background-color: #f0f0f0;
+  }
+  
+  .commit-details.expanded {
+    display: block;
+  }
+  
